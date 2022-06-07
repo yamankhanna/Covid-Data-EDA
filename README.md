@@ -4,11 +4,11 @@ This project includes Exploratory Data Analysis and Visualization of Covid 19 Da
 
 - *Collecting the Data* - from www.ourworldindata.org
 - *Cleaning the Data* - using MS-Excel (removing/replacing null values, dropping unnecessary columns, renaming columns to make sense to the reader)
-- *Importing the Data in MySQL Databse* - Creating tables in MySQL and loading CSV file into table.
+- *Importing the Data in MySQL Database* - Creating tables in MySQL and loading CSV file into table.
 - *Exploratory Data Analysis (EDA) in MySQL* - 
     - Using SQL functions like JOINS, Window Function, Aggregate Function, CTE and Creating View
     - to find Positivity Rate, Death Rate, People Vaccinated and many other relevant information.
 - *Building a Dashboard* - using *Tableau* to showcase the analysis.
-    - Used DAX functions for Data Cleaning and Creating Measues to build charts.
+    - Used DAX functions for Data Cleaning and Creating Measures to build charts.
 
 ## Dashboard
