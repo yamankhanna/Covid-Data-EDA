@@ -9,5 +9,6 @@ This project includes Exploratory Data Analysis and Visualization of Covid 19 Da
     - Using SQL functions like JOINS, Window Function, Aggregate Function, CTE and Creating View
     - to find Positivity Rate, Death Rate, People Vaccinated and many other relevant information.
 - *Building a Dashboard* - using *Tableau* to showcase the analysis.
+    - Used DAX functions for Data Cleaning and Creating Measues to build charts.
 
 ## Dashboard
