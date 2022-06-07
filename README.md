@@ -10,4 +10,4 @@ This project includes Exploratory Data Analysis and Visualization of Covid 19 Da
     - to find Positivity Rate, Death Rate, People Vaccinated and many other relevant information.
 - *Building a Dashboard* - using *Tableau* to showcase the analysis.
 
-## Dashbaord
+## Dashboard
